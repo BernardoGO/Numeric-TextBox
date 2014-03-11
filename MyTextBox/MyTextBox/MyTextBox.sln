@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyTextBox", "MyTextBox\MyTextBox.csproj", "{26DA91E5-781F-446E-8481-3F44A7D5D45E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyTextBoxTeste", "MyTextBoxTeste\MyTextBoxTeste.csproj", "{E67F2417-4B5B-4949-A0DC-17FB811A8201}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26DA91E5-781F-446E-8481-3F44A7D5D45E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26DA91E5-781F-446E-8481-3F44A7D5D45E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26DA91E5-781F-446E-8481-3F44A7D5D45E}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{26DA91E5-781F-446E-8481-3F44A7D5D45E}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{26DA91E5-781F-446E-8481-3F44A7D5D45E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{26DA91E5-781F-446E-8481-3F44A7D5D45E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26DA91E5-781F-446E-8481-3F44A7D5D45E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26DA91E5-781F-446E-8481-3F44A7D5D45E}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{26DA91E5-781F-446E-8481-3F44A7D5D45E}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{26DA91E5-781F-446E-8481-3F44A7D5D45E}.Release|x86.ActiveCfg = Release|Any CPU
+		{E67F2417-4B5B-4949-A0DC-17FB811A8201}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{E67F2417-4B5B-4949-A0DC-17FB811A8201}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{E67F2417-4B5B-4949-A0DC-17FB811A8201}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{E67F2417-4B5B-4949-A0DC-17FB811A8201}.Debug|x86.ActiveCfg = Debug|x86
+		{E67F2417-4B5B-4949-A0DC-17FB811A8201}.Debug|x86.Build.0 = Debug|x86
+		{E67F2417-4B5B-4949-A0DC-17FB811A8201}.Release|Any CPU.ActiveCfg = Release|x86
+		{E67F2417-4B5B-4949-A0DC-17FB811A8201}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{E67F2417-4B5B-4949-A0DC-17FB811A8201}.Release|Mixed Platforms.Build.0 = Release|x86
+		{E67F2417-4B5B-4949-A0DC-17FB811A8201}.Release|x86.ActiveCfg = Release|x86
+		{E67F2417-4B5B-4949-A0DC-17FB811A8201}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

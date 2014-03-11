@@ -1,0 +1,18 @@
+C:\Bernardo\Projetos\C#\teste\NumberBox\NumberBox\NumberBox\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Bernardo\Projetos\C#\teste\NumberBox\NumberBox\NumberBox\obj\x86\Debug\NumberBox.Properties.Resources.resources
+C:\Bernardo\Projetos\C#\teste\NumberBox\NumberBox\NumberBox\obj\x86\Debug\ResGen.read.1.tlog
+C:\Bernardo\Projetos\C#\teste\NumberBox\NumberBox\NumberBox\obj\x86\Debug\ResGen.write.1.tlog
+C:\Bernardo\Projetos\C#\teste\NumberBox\NumberBox\NumberBox\bin\Debug\NumberBox.exe
+C:\Bernardo\Projetos\C#\teste\NumberBox\NumberBox\NumberBox\bin\Debug\NumberBox.pdb
+C:\Bernardo\Projetos\C#\teste\NumberBox\NumberBox\NumberBox\obj\x86\Debug\NumberBox.exe
+C:\Bernardo\Projetos\C#\teste\NumberBox\NumberBox\NumberBox\obj\x86\Debug\NumberBox.pdb
+C:\Bernardo\Projetos\C#\teste\NumberBox\NumberBox\NumberBox\obj\x86\Debug\NumberBox.Form1.resources
+C:\Bernardo\Projetos\C#\1 - Librarys\Numeric Textbox\NumberBox\NumberBox\obj\x86\Debug\NumberBox.exe
+C:\Bernardo\Projetos\C#\1 - Librarys\Numeric Textbox\NumberBox\NumberBox\obj\x86\Debug\NumberBox.pdb
+C:\Bernardo\Projetos\C#\1 - Librarys\Numeric Textbox\NumberBox\NumberBox\bin\Debug\NumberBox.exe
+C:\Bernardo\Projetos\C#\1 - Librarys\Numeric Textbox\NumberBox\NumberBox\bin\Debug\NumberBox.pdb
+C:\Bernardo\Projetos\C#\1 - Librarys\Numeric Textbox\NumberBox\NumberBox\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Bernardo\Projetos\C#\1 - Librarys\Numeric Textbox\NumberBox\NumberBox\obj\x86\Debug\NumberBox.Form1.resources
+C:\Bernardo\Projetos\C#\1 - Librarys\Numeric Textbox\NumberBox\NumberBox\obj\x86\Debug\NumberBox.Properties.Resources.resources
+C:\Bernardo\Projetos\C#\1 - Librarys\Numeric Textbox\NumberBox\NumberBox\obj\x86\Debug\ResGen.read.1.tlog
+C:\Bernardo\Projetos\C#\1 - Librarys\Numeric Textbox\NumberBox\NumberBox\obj\x86\Debug\ResGen.write.1.tlog

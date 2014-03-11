@@ -1,0 +1,5 @@
+C:\Bernardo\Projetos\C#\1 - Librarys\Numeric Textbox\MyTextBox\MyTextBox\MyTextBox\bin\Release\MyTextBox.dll
+C:\Bernardo\Projetos\C#\1 - Librarys\Numeric Textbox\MyTextBox\MyTextBox\MyTextBox\bin\Release\MyTextBox.pdb
+C:\Bernardo\Projetos\C#\1 - Librarys\Numeric Textbox\MyTextBox\MyTextBox\MyTextBox\obj\Release\ResolveAssemblyReference.cache
+C:\Bernardo\Projetos\C#\1 - Librarys\Numeric Textbox\MyTextBox\MyTextBox\MyTextBox\obj\Release\MyTextBox.dll
+C:\Bernardo\Projetos\C#\1 - Librarys\Numeric Textbox\MyTextBox\MyTextBox\MyTextBox\obj\Release\MyTextBox.pdb
